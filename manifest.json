@@ -1,15 +1,15 @@
 {
-  "name": "Moja Aplikacja",
-  "short_name": "Aplikacja",
-  "start_url": "/",
-  "scope": "/",
+{
+  "name": "Twoja Strona",
+  "short_name": "Skrót",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
   "icons": [
     {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
+      "src": "/icon-160.png",
+      "sizes": "160x160",
       "type": "image/png"
     },
     {
